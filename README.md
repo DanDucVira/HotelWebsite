@@ -1,2 +1,2 @@
 # HotelWebsite
-A very simple hotel website
+A very simple hotel website.
